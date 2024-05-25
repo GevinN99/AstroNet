@@ -1,0 +1,24 @@
+.epic-imagery {
+    background-color: #000000;
+    color: #fff;
+}
+
+.page-title {
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.info-card {
+    background-color: #222;
+    color: #fff;
+    margin-top: 20px;
+}
+
+.info-card .card-title {
+    color: #fff;
+}
+
+.info-card .card-text {
+    color: #ccc;
+}

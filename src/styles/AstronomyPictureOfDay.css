@@ -1,0 +1,22 @@
+.astronomy-picture-of-day {
+    background-color: #000000;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.page-title {
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 2.5em;
+}
+
+.photo-container {
+    padding: 20px;
+}
+
+.photo-container img {
+    margin-bottom: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

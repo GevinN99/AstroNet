@@ -1,0 +1,34 @@
+.mars-rover-photos {
+    background-color: #000000;
+    color: #fff;
+}
+
+.page-title {
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.photo-container {
+    justify-content: center;
+    padding: 20px;
+}
+
+.photo-container img {
+    margin-bottom: 20px;
+}
+
+.see-more-btn {
+    display: block;
+    margin: 20px auto;
+    background-color: #606060;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.see-more-btn:hover {
+    background-color: #444444;
+}
